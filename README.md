@@ -1,2 +1,2 @@
 # hello-world
-Repository created so I can become familiar with GitHub 
+This repository was created so I can become familiar with GitHub
